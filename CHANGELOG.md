@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.45](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.44...quota-axi-v0.1.45) (2026-09-15)
+
+
+### Features
+
+* **providers:** report Z.AI coding-plan and OpenCode Go contributor-package quota ([#184](https://github.com/kunchenguid/quota-axi/issues/184)) ([408e4f5](https://github.com/kunchenguid/quota-axi/commit/408e4f508e20868e1226d769cfe30cf408a6cc6a))
+
+
+### Bug Fixes
+
+* **codex:** use supported app-server approval policy ([#190](https://github.com/kunchenguid/quota-axi/issues/190)) ([5e2a6ae](https://github.com/kunchenguid/quota-axi/commit/5e2a6aee5309445113e8cda533a893cb45ce2b4a))
+
 ## [0.1.44](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.43...quota-axi-v0.1.44) (2026-09-15)
 
 
